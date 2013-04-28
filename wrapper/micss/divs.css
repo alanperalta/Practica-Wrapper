@@ -1,0 +1,6 @@
+
+#titulo{ margin:auto auto; height:10%;background:#FFFFFF; border:none;}
+#contenedor{margin:auto auto; height:80%;background:#FFFFFF;border:none;}
+	#indice{ width:20%; height:100%; float:left;background:#FFFFFF;border:none; }
+	#frame{ width:80%; height:100%; float:right;background:#FFFFFF; border:none;}
+#pie{margin:auto auto; height:10%;background:#FFFFFF;border:none;}
